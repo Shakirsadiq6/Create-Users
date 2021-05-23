@@ -1,6 +1,8 @@
 ''' create a script that will create multiple users by taking
 their details as input and keeping the constraints in consideration'''
 
+__author__ = "Shakir Sadiq"
+
 username_list = []
 for users in range(1,6):
     name = input("Enter name:")

@@ -1,5 +1,7 @@
 '''Gender Validation'''
 
+__author__ = "Shakir Sadiq"
+
 class users_gender:
     '''class for users gender'''
     def __init__(self,sex):

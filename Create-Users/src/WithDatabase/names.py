@@ -1,5 +1,7 @@
 '''Name Validation'''
 
+__author__ = "Shakir Sadiq"
+
 class users_name:
     '''class for users name'''
     def __init__(self, name):

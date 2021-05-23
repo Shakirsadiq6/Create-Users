@@ -1,6 +1,8 @@
 ''' create a script that will create multiple users by taking
 their details as input and keeping the constraints in consideration'''
 
+__author__ = "Shakir Sadiq"
+
 username_list = []
 def name_function():
     ''' function for users name'''

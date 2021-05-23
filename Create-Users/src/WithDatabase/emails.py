@@ -1,5 +1,7 @@
 '''Email Validation'''
 
+__author__ = "Shakir Sadiq"
+
 class users_email:
     '''class for users email'''
     def __init__(self,email):

@@ -1,5 +1,7 @@
 '''Database queries to handle all the user input details in the database'''
 
+__author__ = "Shakir Sadiq"
+
 import psycopg2
 import names
 import userage
@@ -7,6 +9,7 @@ import gender
 import emails
 import usernames
 import password
+
 class database:
     '''class for database connections and queries'''
     def __init__(self, dbname, user, password):

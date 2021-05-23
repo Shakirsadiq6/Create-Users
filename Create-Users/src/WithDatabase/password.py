@@ -1,5 +1,7 @@
 '''Password Validation'''
 
+__author__ = "Shakir Sadiq"
+
 import re
 class users_password:
     '''class for users password'''
